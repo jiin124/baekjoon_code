@@ -1,4 +1,4 @@
-a,b,c=map(int,input().split())
+a,b,c=map(int,input().split())#숫자로 연속해서 
 i=1
 
 while True:
